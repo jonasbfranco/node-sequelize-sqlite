@@ -1,5 +1,5 @@
 ### video tutorial
-
+https://youtu.be/bWFuEVmRgdk?si=cqiHJTjJOhuxy3Ii
 
 ### instalar pnpm 
 - npm install -g pnpm
